@@ -1,3 +1,3 @@
-# //appuccinohub.github.io/pirates-math-adventure/:Pirates Math Adventure
+# Pirates Math Adventure
+**[▶ Play online](https://appuccinohub.github.io/pirates-math-adventure/)** — open the live app in your browser.
 
-**[▶ Play online](https)** — open the live app in your browser.
